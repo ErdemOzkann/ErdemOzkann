@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 # 👋 Hi there! I'm Erdem Ozkan
 
-🎯 **QA Tester | Java Backend Learner | Future SDET**
+🎯 **QA Tester | Java Backend Learner | SDET**
 
 Welcome to my GitHub! I'm currently building my skill set in software quality assurance and backend development. I'm passionate about test automation, Java technologies, and continuous learning.
 
@@ -38,7 +38,16 @@ Welcome to my GitHub! I'm currently building my skill set in software quality as
 ---
 
 ## 🛠️ Languages and Tools
+</p>
+<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/my
+---
+
+### 📈 GitHub İstatistikleri
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ErdemOzkann&show_icons=true&theme=radical" alt="erdem's stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErdemOzkann&layout=compact&theme=radical" alt="erdem's languages" height="150"/>
+</p>
+
+---
