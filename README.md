@@ -58,10 +58,11 @@ Welcome to my GitHub! I'm currently building my skill set in software quality as
 
 ---
 
-### 📫 Contact Me
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/erdem-ozkan/)  
-- 📧 Email: erdemmozkann@hotmail.com  
+<h2 align="center">📬 Let's Connect!</h2>
+<p align="center">
+	<a href="https://www.linkedin.com/in/erdem-ozkan/" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+	<a href="mailto:erdemmozkann@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/HOTMAIL-0078D4?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
 
 ---
 
